@@ -10,6 +10,11 @@ public class ExampleScript : MonoBehaviour
     void Start()
     {
         Debug.Log("var1: " + var1);
+
+        int i = 0;
+
+
+
     }
 
     // Update is called once per frame
